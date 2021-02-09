@@ -1,0 +1,13 @@
+$ termux-setup-storage
+$ pkg install git && pkg install wget && pkg install ffmpeg && pkg install nodejs && pkg install mc
+$ apt update && apt upgrade
+$ cd /sdcard
+$ mv yukiniko $HOME
+$ cd
+$ cd yukiniko
+$ bash install.sh
+scan dehhhhhhhhh
+
+
+note : ekstrak file lalu masukan di menejer file
+terus memory internal/bawaan hp dan langsung tempel di situ okey
